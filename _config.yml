@@ -12,7 +12,7 @@ title                    : "Nan's Blog"
 title_separator          : "-"
 name                     : &name "Nan Sun"
 description              : &description "An ordinary man whose interests make him so"
-url                      : https://fallangelzou.github.io/light_sun # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fallangelzou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 

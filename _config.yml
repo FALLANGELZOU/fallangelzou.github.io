@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh"
-title                    : ""
+title                    : "Nan's Blog"
 title_separator          : "-"
 name                     : &name "Nan Sun"
 description              : &description "An ordinary man whose interests make him so"
